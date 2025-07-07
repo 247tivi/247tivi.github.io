@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1 ,Tập 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vod3.cf.dmcdn.net/sec2(ki0OKA4c2HAe4AuLxeVLZVBcfp2woacqOu3XQR88f0ZJ70t4HqbLatoazlgDUC3wihnT0llWMZN7j6tuBz3UXEf--vpBihEMpwRwkGeQ_5Vn33obct2tjwPjU6sjOLg3LM-LtXufrlmswEB4qO0JxgorfxGZ9Y2daWJL6ehu_rGJdlCUjTg0KX-_zaDnCiP1)/video/211/703/579307112_mp4_h264_aac_hd_3.m3u8
