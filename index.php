@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:-1 ,vtv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://s2129133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv451&q=hd&deviceType=2&userId=20648399&deviceId=28096968&type=tv&p=0&zn=netott&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=113.171.129.133&pkg=pkg32.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HDG&rbk=17216246120&pnode=172.16.237.68&isp=all&rkey=20648399m99RqJe5
-https://s2129133.cdn.mytvnet.vn/clrlive_10.m3u8
+https://vod3.cf.dmcdn.net/sec2(ki0OKA4c2HAe4AuLxeVLZVBcfp2woacqOu3XQR88f0ZJ70t4HqbLatoazlgDUC3wihnT0llWMZN7j6tuBz3UXEf--vpBihEMpwRwkGeQ_5Vn33obct2tjwPjU6sjOLg3LM-LtXufrlmswEB4qO0JxgorfxGZ9Y2daWJL6ehu_rGJdlCUjTg0KX-_zaDnCiP1)/video/211/703/579307112_mp4_h264_aac_hd_3.m3u8
